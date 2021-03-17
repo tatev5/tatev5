@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tatev5
+- 👋 Hi, I’m @tatev
 - 👀 I’m interested in html,css,bootstrap,Javascript,NodeJs
 - 🌱 I’m currently learning Javascript,NodeJs
 - 💞️ I’m looking to collaborate on ...
